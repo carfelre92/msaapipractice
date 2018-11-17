@@ -1,0 +1,14 @@
+C:\Users\wlsgn\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\MemeBank.deps.json
+C:\Users\wlsgn\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\MemeBank.runtimeconfig.json
+C:\Users\wlsgn\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\MemeBank.runtimeconfig.dev.json
+C:\Users\wlsgn\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\MemeBank.dll
+C:\Users\wlsgn\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\MemeBank.pdb
+C:\Users\wlsgn\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\MemeBank.csprojAssemblyReference.cache
+C:\Users\wlsgn\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\MemeBank.csproj.CoreCompileInputs.cache
+C:\Users\wlsgn\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\MemeBank.RazorAssemblyInfo.cache
+C:\Users\wlsgn\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\MemeBank.RazorAssemblyInfo.cs
+C:\Users\wlsgn\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\MemeBank.AssemblyInfoInputs.cache
+C:\Users\wlsgn\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\MemeBank.AssemblyInfo.cs
+C:\Users\wlsgn\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\MemeBank.RazorTargetAssemblyInfo.cache
+C:\Users\wlsgn\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\MemeBank.dll
+C:\Users\wlsgn\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\MemeBank.pdb
